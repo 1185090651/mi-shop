@@ -1,0 +1,30 @@
+{
+  "id": "1666085",
+  "name": "shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7533283",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7155220",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "5391606",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    }
+  ]
+}
